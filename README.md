@@ -4,7 +4,7 @@ A couple of short Snakemake scripts using sample data from _Mycobacterium avium_
 
 ## Set up the environment: 
 ```
-cd SVs
+cd MAH_SVs
 conda env create --name sv --file sv_configs/env_sv.yaml 
 conda activate sv
 ```
