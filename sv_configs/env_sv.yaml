@@ -1,0 +1,14 @@
+name: sv
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+  - bioconda
+  - r
+dependencies:
+  - sniffles
+  - minimap2
+  - samtools
+  - python=3.11
+  - snakemake=7.32.4
+  - bakta
